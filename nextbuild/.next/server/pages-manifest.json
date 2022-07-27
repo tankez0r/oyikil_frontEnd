@@ -1,0 +1,20 @@
+{
+  "/_app": "pages/_app.js",
+  "/_error": "pages/_error.js",
+  "/404": "pages/404.html",
+  "/administracion/editarpost": "pages/administracion/editarpost.html",
+  "/administracion": "pages/administracion.html",
+  "/administracion/nuevopost": "pages/administracion/nuevopost.html",
+  "/clientes": "pages/clientes.html",
+  "/": "pages/index.html",
+  "/administracion/editarpost/[post]": "pages/administracion/editarpost/[post].js",
+  "/clientes/[cliente]": "pages/clientes/[cliente].js",
+  "/guia-telefonica": "pages/guia-telefonica.js",
+  "/_document": "pages/_document.js",
+  "/guia-telefonica/nombre/[persona]": "pages/guia-telefonica/nombre/[persona].js",
+  "/guia-telefonica/telefono/[numtel]": "pages/guia-telefonica/telefono/[numtel].js",
+  "/noticias/[noticia]": "pages/noticias/[noticia].js",
+  "/productos-y-servicios/[megas]": "pages/productos-y-servicios/[megas].js",
+  "/productos-y-servicios": "pages/productos-y-servicios.html",
+  "/guia-telefonica/[pagina]": "pages/guia-telefonica/[pagina].js"
+}
